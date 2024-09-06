@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9CB4D28D-464C-2979-0385-62996A791FDD}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FreezeLaserTag",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
